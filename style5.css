@@ -1,0 +1,391 @@
+.tleft{
+    text-align: right;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#one{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+    font-size: medium;
+    font-weight: 600;
+}
+
+#two{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+    font-size: medium;
+    font-weight: 600;
+}
+
+#three{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+    font-size: medium;
+    font-weight: 600;
+}
+
+#four{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+    font-size: medium;
+    font-weight: 600;
+}
+
+#five{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+    font-size: medium;
+    font-weight: 600;
+}
+
+#one:hover{
+   transform: scale(1.1);
+    transition: .3s;
+    border: none;
+    border-radius: 10%;   background-color: rgba(0, 0, 0,0.3);
+    color: black;
+  
+}
+
+#two:hover{
+    transform: scale(1.1);
+     transition: .3s;
+     border: none;
+     border-radius: 10%;   background-color: rgba(0, 0, 0,0.3);
+     color: black;
+   
+ }
+
+ #three:hover{
+    transform: scale(1.1);
+     transition: .3s;
+     border: none;
+     border-radius: 10%;   background-color: rgba(0, 0, 0,0.3);
+     color: black;
+ }
+
+ #four:hover{
+    transform: scale(1.1);
+     transition: .3s;
+     border: none;
+     border-radius: 10%;   background-color: rgba(0, 0, 0,0.3);
+     color: black;
+ }
+
+ #five:hover{
+    transform: scale(1.1);
+     transition: .3s;
+     border: none;
+     border-radius: 10%;   background-color: rgba(0, 0, 0,0.3);
+     color: black;
+   
+ }
+
+.hi{
+    color: rgb(9, 71, 112);
+    font-size: 300%;
+    font-weight: 600;
+    position: absolute;
+    top: 10%;
+}
+
+.intro{
+    font-size: 250%;
+    font-weight: 300;
+    position: absolute;
+    top: 30%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#img{
+    width:19%;
+    position: relative;
+    left: 80%;
+}
+
+
+.sub{
+    position: absolute;
+    top: 90%;
+}
+
+.sub a{
+    text-decoration: none;
+    text-shadow: 0px 1px 3px;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+#click{
+    margin-left: 650%;
+    width: 280%;
+    font-size: 200%;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 1px 4px;
+    background-color: rgb(253, 249, 249);
+}
+
+#click:hover{
+    background-color: rgb(9, 71, 112);
+    color: black;
+    transform: scale(1.1);
+}
+
+.titl{
+    position: absolute;
+    font-size: 200%;
+    font-weight: 600;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(190, 8, 8);
+}
+
+.about{
+    position: absolute;
+    top: 120%;
+    left: 10%;
+    border:none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px;
+}
+#abot{
+    width: 50% ;
+    margin-left: 20%;
+}
+
+
+.ab{
+    font-size: 150%;
+    font-weight: 100;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(224, 10, 10);
+}
+
+#rem{
+    color: rgba(10, 10, 180, 0.719);
+}
+
+.skill{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px;
+    position: absolute;
+    top: 250%;
+    margin-left: 1%;
+    height: 80%;
+}
+
+#sk{
+    font-size: 350%;
+    font-weight: 900;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+#clang{
+    width: 10%;
+}
+#cla{
+    width: 10%;
+}
+#jav{
+    width: 10%;
+}
+#htm{
+    width: 10%;
+}
+#csl{
+    width: 8%;
+}
+#javs{
+    width: 10%;
+}
+#sqli{
+    width: 10%;
+}
+
+#clang:hover{
+    transform: rotate(360deg);
+    transition: .8s;
+    border: none;
+    border-radius: 50%;   background-color: rgba(0, 0, 0,0.3);
+    color: black;
+}
+#cla:hover{
+    transform: rotate(360deg);
+    transition: .8s;
+    border: none;
+    border-radius: 10%;   background-color: rgba(0, 0, 0,0.3);
+    color: black;
+}
+#jav:hover{
+    transform: rotate(360deg);
+    transition: .5s;
+    border: none;
+    border-radius: 50%;   background-color: rgba(0, 0, 0,0.3);
+    color: black;
+}
+#htm:hover{
+    transform: rotate(360deg);
+    transition: .5s;
+    border: none;
+    border-radius: 50%;   background-color: rgba(0, 0, 0,0.3);
+    color: black;
+}
+#csl:hover{
+    transform: rotate(360deg);
+    transition: .5s;
+    border: none;
+    border-radius: 50%;   background-color: rgba(0, 0, 0,0.3);
+    color: black;
+}
+#javs:hover{
+    transform: rotate(360deg);
+    transition: .5s;
+    border: none;
+    border-radius: 50%;   background-color: rgba(0, 0, 0,0.3);
+    color: black;
+}
+#sqli:hover{
+    transform: rotate(360deg);
+    transition: .5s;
+    border: none;
+    border-radius: 50%;   background-color: rgba(0, 0, 0,0.3);
+    color: black;
+}
+
+.project{
+
+    border:none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px;
+    position: absolute;
+    top: 350%;
+    margin-left: 8%;
+    width: 80%;
+    height: 90%;
+}
+#pr{
+    font-size: 350%;
+    font-weight: 900;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+#po{
+    margin-left: 2%;
+}
+
+
+
+#car1{
+    width: 40%;
+    margin-left: 30%;
+    
+    position: absolute;
+}
+
+
+.connt{
+    position: absolute;
+    top: 450%;
+    margin-left: 8%;
+   
+}
+
+#cnt{
+    font-size: 350%;
+    font-weight: 900;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+#numb{
+    position: absolute;
+    color: rgb(5, 5, 88);
+    top: 96%;
+    right: 100%;
+}
+
+#num{
+    position: absolute;
+    left: 1%;
+    top: 88%;
+    font-weight: 700;
+}
+
+#mailn{
+    position: absolute;
+    top: 115%;
+    right: 100%;
+}
+
+#mail{
+    position: absolute;
+    top: 110%;
+    font-weight: 700;
+
+}
+#lin{
+    position: absolute;
+    top: 134%;
+    right:100% ;
+}
+
+#limp{
+    position: absolute;
+    top: 128%;
+    font-weight: 700;
+
+}
+
+#get{
+    position: absolute;
+    top: 150%;
+    right:100% ;
+
+}
+#git{
+    position: absolute;
+    top: 143%;
+    font-weight: 700;
+
+}
+#numb:hover{
+    transform: scale(1.6);
+    transition: .3s;
+    border: none;
+    border-radius: 10%;   
+}
+
+#mailn:hover{
+    transform: scale(1.6);
+    transition: .3s;
+    border: none;
+    border-radius: 10%;
+}
+
+#lin:hover{
+    transform: scale(1.6);
+    transition: .3s;
+    border: none;
+    border-radius: 10%;
+}
+
+#get:hover{
+    transform: scale(1.6);
+    transition: .3s;
+    border: none;
+    border-radius: 10%;
+}
